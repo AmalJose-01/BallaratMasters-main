@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, #e0f7fa, #b2ebf2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact-container {
+  margin-top: 60px;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+form input, form textarea {
+  border-radius: 0.375rem;
+}
+
+form button {
+  background-color: #009688;
+  border: none;
+}
+
+form button:hover {
+  background-color: #00796b;
+}
